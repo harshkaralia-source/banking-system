@@ -1,7 +1,5 @@
 @import 'tailwindcss';
 
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+.bg-gradient-mesh {
+    background-image: url('/icons/gradient-mesh.svg');
 }
